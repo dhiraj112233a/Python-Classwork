@@ -1,0 +1,5 @@
+print(40 + 5)
+print(40 * 5)
+print(40 - 5)
+print(40 % 5)
+print(40 / 5)
